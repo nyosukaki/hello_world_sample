@@ -20,5 +20,3 @@ class User
     EOS
 
   end
-
-endgit 
