@@ -15,9 +15,9 @@ class User
     #{@birth}生まれの#{@age}歳です
     出身は#{@bitrhplace}です
     よろしくお願い致します
+    いつも有益な情報をありがとうございます
 
     EOS
 
   end
-
 end
